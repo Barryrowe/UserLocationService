@@ -1,0 +1,6 @@
+This is a simple User Location Service.  The Goal of this project is to provide the following:
+
+--Provide a means for storing the LastKnown Location of a given User Name
+--Create a User Account
+--Store locations by UserId
+--Provide A RESTful service API to work with the provided functions.

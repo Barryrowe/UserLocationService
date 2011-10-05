@@ -1,0 +1,5 @@
+C:\Users\Barry\git-repos\WhereAmI\userlocationservice\UserLocationService\bin\UserLocationService.dll
+C:\Users\Barry\git-repos\WhereAmI\userlocationservice\UserLocationService\bin\UserLocationService.pdb
+C:\Users\Barry\git-repos\WhereAmI\userlocationservice\UserLocationService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Barry\git-repos\WhereAmI\userlocationservice\UserLocationService\obj\Debug\UserLocationService.dll
+C:\Users\Barry\git-repos\WhereAmI\userlocationservice\UserLocationService\obj\Debug\UserLocationService.pdb
